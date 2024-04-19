@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "spotify clone",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennanoh/Spotify.git"
+  },
+  "author": "Jenna Noh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennanoh/Spotify/issues"
+  },
+  "homepage": "https://github.com/jennanoh/Spotify#readme"
+}
